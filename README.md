@@ -1,10 +1,6 @@
 
 # armstrong-number
 import java.util.Scanner;
-/**
- *
- * @author Vidhikara
- */
 public class Armstrong {
 
     public static void main(String[] args) {
